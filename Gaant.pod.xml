@@ -42,7 +42,7 @@
     <MoveCompletedEndsForward>0</MoveCompletedEndsForward>
     <BaselineForEarnedValue>0</BaselineForEarnedValue>
     <AutoAddNewResourcesAndTasks>1</AutoAddNewResourcesAndTasks>
-    <CurrentDate>2013-10-07T23:46:00</CurrentDate>
+    <CurrentDate>2013-10-07T23:48:00</CurrentDate>
     <MicrosoftProjectServerURL>1</MicrosoftProjectServerURL>
     <Autolink>1</Autolink>
     <NewTaskStartDate>0</NewTaskStartDate>
@@ -2419,7 +2419,7 @@
         <Task>
             <UID>15</UID>
             <ID>15</ID>
-            <Name>Creazione banca dati</Name>
+            <Name>Creazione/Popolamento banca dati</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
             <CreateDate>2013-09-12T12:36:00</CreateDate>
